@@ -1,4 +1,5 @@
 **USER Review**
+---------
 Goal 
 - In this exercise, I used authentication and validation mechanisms inside DRF.
 - The goal of this API is to recieve user review for menu items of LittleLemon restaurant.
