@@ -1,4 +1,4 @@
-**USER Review API**
+**USER Rating API**
 ---------
 Goal 
 - In this exercise, I used authentication and validation mechanisms inside DRF.
